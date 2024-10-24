@@ -1,0 +1,3 @@
+billing_country,orders,gross_sales,discounts,returns,net_sales,shipping,taxes,total_sales
+United States,1373,36833.600,-11316.250,-475.600,25041.750,0.000,64.980,25106.730
+,100,1853.800,-1426.100,-177.800,249.900,0.000,16.880,266.780

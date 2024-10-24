@@ -1,0 +1,11 @@
+discount_name,discount_method,discount_type,discount_class,orders,total_gross_sales,total_discount_amount,total_returns,total_net_sales,total_shipping_price,total_tax_amount,grand_total_sales
+VIBES50,Code,Percentage,product,733,20526.910,-10250.440,0.000,10276.470,0.000,24.110,10300.580
+TOGETHER15,Code,Percentage,product,67,1932.580,-289.670,0.000,1642.910,0.000,9.980,1652.890
+WOW25,Code,Percentage,product,10,215.550,-53.850,0.000,161.700,0.000,0.000,161.700
+LASTSTAND,Code,Percentage,product,4,127.780,-74.650,0.000,53.130,0.000,0.000,53.130
+VIBES60,Code,Percentage,product,5,95.760,-57.450,0.000,38.310,0.000,0.000,38.310
+wowcanvas,Code,Percentage,product,1,39.950,-39.950,0.000,0.000,0.000,0.000,0.000
+wowcanvas,Code,Percentage,unknown,75,971.250,-971.250,0.000,0.000,0.000,0.000,0.000
+PILATESBKLYN,Code,Percentage,order,1,239.400,-239.400,0.000,0.000,0.000,0.000,0.000
+FREEWOW88XQ873B,Code,Percentage,product,1,12.950,-12.950,0.000,0.000,0.000,0.000,0.000
+TESTTESTTEST,Code,Percentage,order,5,239.600,-239.600,0.000,0.000,0.000,0.000,0.000
